@@ -1,0 +1,7 @@
+[
+  "test_ArbitaryArg.py::test_case_1",
+  "test_Demo.py::test_case_0",
+  "test_Demo_failing.py::test_case_4",
+  "test_Foo.py::test_case_2",
+  "test_Foo_failing.py::test_case_0"
+]
